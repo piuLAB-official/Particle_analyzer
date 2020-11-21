@@ -1,0 +1,70 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="84991034" file="/Volumes/Macintosh HDD/Andrea/Documents/MATLAB/ImageAnalysis_prova/v1.0/Particle analizer.prj" location="/Volumes/Macintosh HDD/Andrea/Documents/MATLAB/ImageAnalysis_prova/v1.0" name="Particle analizer" target="target.mlapps" target-name="Package App">
+    <param.appname>Particle analizer</param.appname>
+    <param.authnamewatermark>Andrea Mantelli</param.authnamewatermark>
+    <param.email>andrea.mantelli@polimi.it</param.email>
+    <param.company>Politecnico di Milano</param.company>
+    <param.icon>${PROJECT_ROOT}/Particle analizer_resources/icon_24.png</param.icon>
+    <param.icons>
+      <file>${PROJECT_ROOT}/Particle analizer_resources/icon_48.png</file>
+      <file>${PROJECT_ROOT}/Particle analizer_resources/icon_24.png</file>
+      <file>${PROJECT_ROOT}/Particle analizer_resources/icon_16.png</file>
+    </param.icons>
+    <param.summary>Particle analizer software was developed in order to measure recycled fibers length and diameter. Nevertheless, it can be used for different</param.summary>
+    <param.description />
+    <param.screenshot>/private/var/folders/9b/cb847szs7f39hr34yfbhsq8h0000gp/T/tp4795b420_6551_45ea_a4fa_4ccbc64a225e.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name>
+      <item>MATLAB</item>
+      <item>Image Processing Toolbox</item>
+    </param.products.name>
+    <param.products.id>
+      <item>1</item>
+      <item>17</item>
+    </param.products.id>
+    <param.products.version>
+      <item>9.8</item>
+      <item>11.1</item>
+    </param.products.version>
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>8b0047a3-199f-4d73-89d9-c34c3e69ad54</param.guid>
+    <unset>
+      <param.description />
+      <param.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}/ParticleAnalizer_v1_0.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}/FiberEUse_Logo.png</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="/Volumes/Macintosh HDD/Andrea/Documents/MATLAB/ImageAnalysis_prova" name="v1.0" optional="false">/Volumes/Macintosh HDD/Andrea/Documents/MATLAB/ImageAnalysis_prova/v1.0</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>/Applications/MATLAB_R2020a.app</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>true</unix>
+      <mac>true</mac>
+      <windows>false</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.15.7</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>maci64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
