@@ -1,6 +1,7 @@
 # How to use
 
-
+Steps | Description
+------|------------
 ![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png) | blablabla
 ![step2](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step2.png) | blablabla
 ![step3](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step3.png)
