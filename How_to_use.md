@@ -1,8 +1,8 @@
 # How to use
 
 
-![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png)
-![step2](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step2.png)
+![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png) | blablabla
+![step2](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step2.png) | blablabla
 ![step3](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step3.png)
 ![step4](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step4.png)
 ![step5](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step5.png)
