@@ -2,17 +2,30 @@
 
 Steps | Description
 ------|------------
-![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png) | blablabla
-![step2](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step2.png) | blablabla
-![step3](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step3.png)
-![step4](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step4.png)
-![step5](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step5.png)
-![step6](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step6.png)
-![step7](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step7.png)
-![step8](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step8.png)
-![step9](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step9.png)
-![step10](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step10.png)
-![step11](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step11.png)
-![step12](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step12.png)
-![step13](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step13.png)
-![step14](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step14.png)
+![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png) | step 1
+![step2](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step2.png) | step 2
+![step3](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step3.png) | step 3
+![step4](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step4.png) | step 4
+![step5](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step5.png) | step 5
+![step6](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step6.png) | step 6
+![step7](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step7.png) | step 7
+![step8](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step8.png) | step 8
+![step9](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step9.png) | step 9
+![step10](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step10.png) | step 10
+![step11](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step11.png) | step 11
+![step12](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step12.png) | step 12
+![step13](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step13.png) | step 13
+![step14](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step14.png) | step 14
+![step15](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step15.png) | step 15
+![step16](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step16.png) | step 16
+![step17](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step17.png) | step 17
+![step18](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step18.png) | step 18
+![step19](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step19.png) | step 19
+![step20](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step20.png) | step 20
+![step21](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step21.png) | step 21
+![step22](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step22.png) | step 22
+![step23](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step23.png) | step 23
+![step24](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step24.png) | step 24
+![step25](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step25.png) | step 25
+![step26](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step26.png) | step 26
+![step27](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step27.png) | step 27
