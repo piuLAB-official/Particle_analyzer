@@ -1,8 +1,8 @@
 # How to use
-
+_Before launching the software prepare you files to analyze into a folder named "Figure". Open on MATLAB browser the directory containing the Figure folder._
 Steps | Description
 ------|------------
-![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png) | step 1
+![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png) | If no file is present in the list, click on [Update List] button.
 ![step2](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step2.png) | step 2
 ![step3](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step3.png) | step 3
 ![step4](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step4.png) | step 4
