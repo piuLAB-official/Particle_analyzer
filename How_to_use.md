@@ -3,7 +3,7 @@ _Before launching the software prepare you files to analyze into a folder named 
 
 Steps || Description |
 ----------------------|------------|------
-![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png) || If no file is present in the list, click on **Update List** button. Select the image you want to analyze and click on **Load file**.
+|![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png) | If no file is present in the list, click on **Update List** button. Select the image you want to analyze and click on **Load file**.
 ![step2](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step2.png) | Automatically you will be able to draw a line into the image. draw the line over the scale bar, its lenght will be used to convert pixel dimenstions to µm. Type the lenght in µm correspondent to the line you have drawn and click on **Set scale** button.
 ![step3](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step3.png) | You have now setup the scale and all measurement will be calibrated. If you want to change the lenght in µm you can do it by typing the new value and clicking on **Set scale**. If you need to correct the line over the image, reload the file as described in *Step 1*.
 ![step4](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step4.png) | Go to _ **Enhance** _ section, here you will binarize the image preparing it for the analysis. The resulting image will be used for the particles recognition. Use particular care during the image preparation, as every feature not present after these steps will not be seen during the image analysis.
