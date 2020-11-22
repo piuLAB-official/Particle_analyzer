@@ -2,7 +2,6 @@
 _Before launching the software prepare you files to analyze into a folder named "Figure". Open on MATLAB browser the directory containing the Figure folder._
 
 |              | Header 1        | Header 2                       || Header 3                       ||
-|              | Subheader 1     | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |
 |==============|-----------------|----------------|----------------|----------------|----------------|
 | Row Header 1 | 3row, 3col span                                 ||| Colspan only                   ||
 | Row Header 2 |       ^                                         ||| Rowspan only   | Cell           |
