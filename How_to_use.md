@@ -1,9 +1,9 @@
 # How to use
 _Before launching the software prepare you files to analyze into a folder named "Figure". Open on MATLAB browser the directory containing the Figure folder._
 Steps | Description
-------|------------
+----------------------|------------
 ![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png) | If no file is present in the list, click on **Update List** button. Select the image you want to analyze and click on **Load file**.
-![step2](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step2.png) | Automatically you will be able to draw a line into the image. draw the line over the scale bar, its lenght will be used to convert pixel dimenstions to \mu m.
+![step2](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step2.png) | Automatically you will be able to draw a line into the image. draw the line over the scale bar, its lenght will be used to convert pixel dimenstions to $\mu m.
 ![step3](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step3.png) | step 3
 ![step4](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step4.png) | step 4
 ![step5](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step5.png) | step 5
