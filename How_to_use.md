@@ -1,7 +1,6 @@
 # How to use
 _Before launching the software prepare you files to analyze into a folder named "Figure". Open on MATLAB browser the directory containing the Figure folder._
 
-
 |Steps|Description|
 |-----|-----------|
 ![step1](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step1.png) | If no file is present in the list, click on **Update List** button. Select the image you want to analyze and click on **Load file**.
@@ -11,19 +10,19 @@ _Before launching the software prepare you files to analyze into a folder named 
 ![step5](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step5.png) | Select a treshold for the binarize step, then click on **Binarize** button. Repeat this process until the result cleary shows only the feature you want to measure. The resulting image will be used later to refine each particle. Use particular care during this step since every feature not present after it, will not be seen during the image analysis.
 ![step6](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step6.png) | **Open** button will reduce the noise by removing isle of _black_ pixel inside _white_ feature and viceversa. The value defines a treshold for the dimentions of the isle to remove. Repeat this process until the result cleary shows only the feature you want to measure. This image resulting after this step will be used only to isolate the particles in order to speed up the process, but not for the particles measure.
 ![step7](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step7.png) | Use **Complement** button to switch _white_ and _black_ pixels. Feature to measure have to be _white_. Use **Refine** button to furtherly clear the noise. 
-![step8](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step8.png) | step 8
-![step9](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step9.png) | step 9
-![step10](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step10.png) | step 10
-![step11](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step11.png) | step 11
-![step12](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step12.png) | step 12
-![step13](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step13.png) | step 13
-![step14](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step14.png) | step 14
-![step15](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step15.png) | step 15
-![step16](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step16.png) | step 16
-![step17](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step17.png) | step 17
-![step18](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step18.png) | step 18
-![step19](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step19.png) | step 19
-![step20](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step20.png) | step 20
+![step8](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step8.png) | Once the image preparation is finished, go to _ **Measure** _ section. First of all, type the aspect ratio of particle you want to measure, particle with higher aspect ratio will be identified also.
+![step9](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step9.png) | Start particles isolation by clicking on **Isolate particles**. Wait until the process is finished, the indicator beside will turn green. 
+![step10](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step10.png) | If you need to manually insert a particle, click on **add particle** button. Automatically a larger image will appear. Draw a line over the particle, type the estimated width in pixel, the click on **draw particle** button. Repeat the process for all the particle that need to be manually inserted.
+![step11](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step11.png) | It is possible to measure the particle as is, but a refinement is recomended for a better result. Enter parameters for the particle refinement in the **Refine particles** section. You can either decide to refine one particle at a time or refine all the particle with the same refinement parameters.
+![step12](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step12.png) | Once the **RefineALL** button is clicked wait until the process finish, the indicator beside will turn green.
+![step13](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step13.png) | It is possible to navigate between particles by changing the particle number (_Particle #_)
+![step14](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step14.png) | If a particle was excluded during the automatic refinement (_RefineALL_) it is possible to include it by acting on the **exclude/include** button.
+![step15](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step15.png) | Change the refinement parameter to correctly isolate the particle.
+![step16](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step16.png) | Particles can be also excluded for the measurement.
+![step17](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step17.png) | Now all the particles to be measure are ready. You can either measure one particle at a time o measure all by clicking on **MeasureALL** button.
+![step18](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step18.png) | Wait untill all particles are measured, the indicator beside will turn green.
+![step19](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step19.png) | Go to _ **Report** _ section to see report of the measurement. Type a name for the measurement and click on **Export** button, a .csv file will be created in the _Figure_ folder.
+![step20](https://github.com/piuLAB-official/Particle_analyzer/blob/main/HowTo_steps/step20.png) | Clear all measurements by clicking on **ClearALL** in oder to measure particles in a new image.
 
 
 
