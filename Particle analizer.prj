@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="84991034" file="/Volumes/Macintosh HDD/Andrea/Documents/MATLAB/ImageAnalysis_prova/v1.0/Particle analizer.prj" location="/Volumes/Macintosh HDD/Andrea/Documents/MATLAB/ImageAnalysis_prova/v1.0" name="Particle analizer" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="888521627" file="/Volumes/Macintosh HDD/Andrea/Documents/GitHub/Particle_analyzer/Particle analizer.prj" location="/Volumes/Macintosh HDD/Andrea/Documents/GitHub/Particle_analyzer" name="Particle analizer" target="target.mlapps" target-name="Package App">
     <param.appname>Particle analizer</param.appname>
     <param.authnamewatermark>Andrea Mantelli</param.authnamewatermark>
     <param.email>andrea.mantelli@polimi.it</param.email>
@@ -12,7 +12,7 @@
     </param.icons>
     <param.summary>Particle analizer software was developed in order to measure recycled fibers length and diameter. Nevertheless, it can be used for different</param.summary>
     <param.description />
-    <param.screenshot>/private/var/folders/9b/cb847szs7f39hr34yfbhsq8h0000gp/T/tp4795b420_6551_45ea_a4fa_4ccbc64a225e.png</param.screenshot>
+    <param.screenshot>/private/var/folders/9b/cb847szs7f39hr34yfbhsq8h0000gp/T/tp32ca87e2_4d0e_42ac_93a8_806e37cfecfd.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name>
       <item>MATLAB</item>
@@ -44,7 +44,7 @@
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="/Volumes/Macintosh HDD/Andrea/Documents/MATLAB/ImageAnalysis_prova" name="v1.0" optional="false">/Volumes/Macintosh HDD/Andrea/Documents/MATLAB/ImageAnalysis_prova/v1.0</file>
+      <file location="/Volumes/Macintosh HDD/Andrea/Documents/GitHub" name="Particle_analyzer" optional="false">/Volumes/Macintosh HDD/Andrea/Documents/GitHub/Particle_analyzer</file>
     </build-deliverables>
     <workflow />
     <matlab>
