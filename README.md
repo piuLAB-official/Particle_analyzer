@@ -1,5 +1,5 @@
 # Particle analyzer
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4297022.svg)](https://doi.org/10.5281/zenodo.4297022)
 ![](https://img.shields.io/badge/APP-MATLAB-orange?logo=mathworks)
 ![](https://img.shields.io/github/license/piuLAB-official/Particle_analyzer?color=green)
 ![](https://img.shields.io/github/v/release/piuLAB-official/Particle_analyzer)
